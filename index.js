@@ -88,5 +88,4 @@ function checkPalindrome(phrase) {
   }
 }
 
-// console.log(checkPalindrome("Amor, Roma"));
 checkPalindrome("Amor, Roma");
